@@ -1,3 +1,4 @@
+Hey there, I'm Sayed
 # 💫 About Me:
 🔭 I’m currently working on:<br>A Flutter project called Bookly, building a featured books list and implementing Bloc for state management.<br><br>🤝 I’m looking to collaborate on:<br>Open-source Flutter and Android mobile development projects, especially involving REST APIs, Firebase, or UI/UX design.<br><br>🌱 I’m currently learning:<br>Java mobile Android development through my Diploma Education Program (DEP) and improving my skills in problem-solving and competitive programming.<br><br>💬 Ask me about:<br>Flutter, Java, Mobile App Development, Firebase, and ECPC experiences.<br><br>⚡ Fun fact:<br>I’ve competed in the ECPC twice and reached the finals in 2024!
 

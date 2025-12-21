@@ -57,8 +57,8 @@ I've competed in the Egyptian Collegiate Programming Contest twice, achieving **
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayed-mostafa2004)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayed-mostafa2004)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://sayedmostaf.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayedmostaf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://sayedmostafa.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayed.mostafa.attia1@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100090430537950)
 
@@ -70,7 +70,7 @@ I've competed in the Egyptian Collegiate Programming Contest twice, achieving **
 
 <div align="center">
 
-### 🍎 [Fruits Hub E-Commerce App](https://github.com/sayedmostaf/fruits-hub) | [Live Demo](https://your-demo-link.com)
+### 🍎 [Fruits Hub E-Commerce App](https://github.com/sayedmostaf/fruits-hub) | [Live Demo](https://www.youtube.com/watch?v=i2fj2dD0oCI)
 **Cross-platform fruits marketplace** with real-time cart, offline favorites, and PayPal integration  
 `Flutter` `Firebase` `Supabase` `Hive` `Cubit` `PayPal API` `Clean Architecture`
 
@@ -134,7 +134,7 @@ I've competed in the Egyptian Collegiate Programming Contest twice, achieving **
 | **ICPC Upper Egypt** | 2023 | Ranked **61st/400+ teams** |
 | **Level One Seller** | 2024 | 5-Star Rating on Freelancer |
 
-📜 [**View All Certificates**](https://your-certificates-link.com)
+📜 [**View All Certificates**]([https://your-certificates-link.com](https://drive.google.com/drive/folders/1edkXFbzMp7ho1EU7ROcD2F_sNgxanLC_))
 
 </div>
 
@@ -192,8 +192,6 @@ I believe in:
 <div align="center">
 
 ### 🔥 Let's Build Something Amazing Together!
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=sayedmostaf&icon=0&color=0)](https://visitcount.itsvg.in)
 
 **⭐ From [Sayed Mostafa](https://github.com/sayedmostaf) with ❤️**
 

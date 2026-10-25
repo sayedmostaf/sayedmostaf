@@ -46,15 +46,15 @@
 ## ✨ Featured Projects
 
 <p align="center">
-  <a href="https://sayedmostafa.vercel.app/"><img src="assets/card-yalla.svg" width="32.4%" alt="Yalla Bena" /></a>
-  <a href="https://sayedmostafa.vercel.app/"><img src="assets/card-mansoog.svg" width="32.4%" alt="Mansoog" /></a>
-  <a href="https://sayedmostafa.vercel.app/"><img src="assets/card-jannah.svg" width="32.4%" alt="Jannah" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.buniasoft.yallabena"><img src="assets/card-yalla.svg" width="32.4%" alt="Yalla Bena" /></a>
+  <a href="https://www.youtube.com/watch?v=mE67Q-gs05o"><img src="assets/card-mansoog.svg" width="32.4%" alt="Mansoog" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.buniasoft.jannahapp"><img src="assets/card-jannah.svg" width="32.4%" alt="Jannah" /></a>
 </p>
 <p align="center">
-  <a href="https://sayedmostafa.vercel.app/"><img src="assets/btn-play.svg" width="16%" alt="Yalla Bena on Google Play" /></a>
-  <a href="https://sayedmostafa.vercel.app/"><img src="assets/btn-appstore.svg" width="16%" alt="Yalla Bena on the App Store" /></a>
-  <a href="https://sayedmostafa.vercel.app/"><img src="assets/btn-demo.svg" width="32.4%" alt="Mansoog live demo" /></a>
-  <a href="https://sayedmostafa.vercel.app/"><img src="assets/btn-play.svg" width="16%" alt="Jannah on Google Play" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.buniasoft.yallabena"><img src="assets/btn-play.svg" width="16%" alt="Yalla Bena on Google Play" /></a>
+  <a href="https://apps.apple.com/us/app/%D9%8A%D9%84%D8%A7-%D8%A8%D9%8A%D9%86%D8%A7/id6755548737"><img src="assets/btn-appstore.svg" width="16%" alt="Yalla Bena on the App Store" /></a>
+  <a href="https://www.youtube.com/watch?v=mE67Q-gs05o"><img src="assets/btn-demo.svg" width="32.4%" alt="Mansoog demo video" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.buniasoft.jannahapp"><img src="assets/btn-play.svg" width="16%" alt="Jannah on Google Play" /></a>
   <a href="https://apps.apple.com/us/app/%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%AC%D9%86%D8%A9/id6818501030"><img src="assets/btn-appstore.svg" width="16%" alt="Jannah on the App Store" /></a>
 </p>
 

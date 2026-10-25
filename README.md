@@ -49,6 +49,8 @@
 <tr>
 <td width="33%" align="center" valign="top">
 
+<img src="assets/icons/yalla-bena.png" width="92" height="92" alt="Yalla Bena icon" />
+
 <img src="assets/card-yalla.svg" width="100%" alt="Yalla Bena" />
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://sayedmostafa.vercel.app/)
@@ -57,12 +59,16 @@
 </td>
 <td width="33%" align="center" valign="top">
 
+<img src="assets/icons/mansoog.png" width="92" height="92" alt="Mansoog icon" />
+
 <img src="assets/card-mansoog.svg" width="100%" alt="Mansoog" />
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-2E9EF7?style=for-the-badge&logo=flutter&logoColor=white)](https://sayedmostafa.vercel.app/)
 
 </td>
 <td width="33%" align="center" valign="top">
+
+<img src="assets/icons/jannah.png" width="92" height="92" alt="Jannah · بناء الجنة icon" />
 
 <img src="assets/card-jannah.svg" width="100%" alt="Jannah · بناء الجنة" />
 
@@ -133,18 +139,15 @@
 
 </div>
 
-<!--
-  OPTIONAL: animated contribution snake. Keep .github/workflows/snake.yml,
-  run it once from the Actions tab, then uncomment this block.
+## 🐍 Contribution Snake
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sayedmostaf/sayedmostaf/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sayedmostaf/sayedmostaf/output/github-snake.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/sayedmostaf/sayedmostaf/output/github-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/sayedmostaf/sayedmostaf/output/github-snake.svg">
 </picture>
 </div>
--->
 
 <br/>
 

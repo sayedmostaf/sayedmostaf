@@ -1,198 +1,157 @@
-# Hey there, I'm Sayed Mostafa 👋
-
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%F0%9F%93%B1;Competitive+Programmer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9)
+
+<img src="assets/header.svg" width="100%" alt="Sayed Mostafa · Flutter Developer" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-sayedmostafa.vercel.app-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://sayedmostafa.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/sayed-mostafa2004)
+[![Email](https://img.shields.io/badge/Email-Hire_me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:sayed.mostafa.wrk@gmail.com)
+
+![Status](https://img.shields.io/badge/●_Available_for_freelance-2ea44f?style=flat-square&labelColor=0d1117)
+![Experience](https://img.shields.io/badge/2%2B_years-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=0d1117)
+![Stores](https://img.shields.io/badge/Live_on-Google_Play_%26_App_Store-7F52FF?style=flat-square&labelColor=0d1117)
+
+<br/>
+
+<img src="assets/terminal.svg" width="780" alt="about" />
 
 </div>
 
-## 💫 About Me
+<br/>
 
-🎓 **Junior Software Engineering Student** at Assiut National University  
-📱 **Mobile App Development Intern** at Digital Egypt Initiative  
-🏆 **2x ECPC Finalist** (2023 & 2024) | Ranked 44th out of 400+ teams  
-⭐ **Level One Seller** with 5-Star Rating on Freelancer  
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```dart
-class SayedMostafa extends FlutterDeveloper {
-  String currentFocus = "Building scalable Flutter apps with Clean Architecture";
-  List<String> passions = ["Mobile Development", "Problem Solving", "UI/UX Design"];
-  
-  void code() {
-    while(caffeineLevel > 0) {
-      build();
-      test();
-      deploy();
-      learn();
-    }
-  }
-}
-```
+#### 🔭 Now
+- Freelance Flutter Developer on **Freelancer & Mostaql**
+- Shipping production-ready apps for clients
+- Scaling with **BLoC / Cubit** and **Clean Architecture**
 
-### 🔭 Currently Working On
-- **Healtho Fitness** - A comprehensive fitness mobile app (Capstone Project)
-- Mastering **Bloc** state management for scalable Flutter applications
-- Building feature-rich apps with **Clean Architecture** principles
+</td>
+<td width="50%" valign="top">
 
-### 🌱 Currently Learning
-- Advanced **Android Development** with Java & Kotlin
-- **Competitive Programming** techniques and algorithms
-- **CI/CD** pipelines and modern development workflows
+#### 🌱 Next
+- Native **Android** with Java & Kotlin
+- **CI/CD** pipelines and modern workflows
+- Advanced algorithms & competitive programming
 
-### 🤝 Open to Collaborate On
-- Open-source **Flutter** projects
-- **Mobile apps** with complex state management
-- Projects involving **REST APIs**, **Firebase**, or innovative **UI/UX**
+</td>
+</tr>
+</table>
 
-### 💬 Ask Me About
-Flutter • Dart • Firebase • State Management • Clean Architecture • ECPC Experiences • Mobile App Development
+<br/>
 
-### ⚡ Fun Fact
-I've competed in the Egyptian Collegiate Programming Contest twice, achieving **finalist status** and ranking **44th among 400+ teams** in 2024!
+## ✨ Featured Projects
 
----
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
 
-## 🌐 Connect With Me
+<img src="assets/card-yalla.svg" width="100%" alt="Yalla Bena" />
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://sayedmostafa.vercel.app/)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://sayedmostafa.vercel.app/)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="assets/card-mansoog.svg" width="100%" alt="Mansoog" />
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2E9EF7?style=for-the-badge&logo=flutter&logoColor=white)](https://sayedmostafa.vercel.app/)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="assets/card-jannah.svg" width="100%" alt="Jannah · بناء الجنة" />
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://sayedmostafa.vercel.app/)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%AC%D9%86%D8%A9/id6818501030)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayed-mostafa2004)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayedmostaf)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://sayedmostafa.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayed.mostafa.attia1@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100090430537950)
+**[See everything on my portfolio ➜](https://sayedmostafa.vercel.app/)**
 
 </div>
 
----
+<br/>
 
-## 🚀 Featured Projects
+## 🧰 Stack
 
 <div align="center">
 
-### 🍎 [Fruits Hub E-Commerce App](https://github.com/sayedmostaf/fruits-hub) | [Live Demo](https://www.youtube.com/watch?v=i2fj2dD0oCI)
-**Cross-platform fruits marketplace** with real-time cart, offline favorites, and PayPal integration  
-`Flutter` `Firebase` `Supabase` `Hive` `Cubit` `PayPal API` `Clean Architecture`
-
-### 🎬 [Movix Movie App](https://github.com/sayedmostaf/movix)
-**Movie discovery platform** featuring trending titles, detailed info, and Firebase-powered watchlists  
-`Flutter` `GetX` `Dio` `Firebase Auth` `TMDb API` `Clean Architecture`
-
-### ☁️ [SkyCast Weather App](https://github.com/sayedmostaf/skycast)
-**Real-time weather companion** with forecasts, alerts, interactive maps, and air quality monitoring  
-`Flutter` `Dart` `REST APIs` `Material Design` `UI/UX`
+<img src="assets/stack.svg" width="100%" alt="tech stack" />
 
 </div>
 
----
+<br/>
 
-## 💻 Tech Stack
+## 💼 Experience
 
-### Languages
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+| When | Role | Where |
+|---|---|---|
+| **2024 → now** | **Freelance Flutter Developer** · Freelancer & Mostaql<br/>Cross-platform apps for clients with Firebase, Supabase, REST APIs and modern state management. | Remote |
+| **Apr – Dec 2024** | **Mobile App Development Intern** · Digital Egypt Initiative<br/>Cross-platform apps with Flutter, Dart, Firebase and RESTful APIs. | Assiut |
+| **2022 – 2026** | **B.Sc. Software Engineering** · Assiut National University<br/>GPA 3.33 / 4.00 | Assiut, Egypt |
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
+<br/>
 
-### State Management & Architecture
-![Bloc](https://img.shields.io/badge/Bloc-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=for-the-badge&logo=flutter&logoColor=white)
-![Cubit](https://img.shields.io/badge/Cubit-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Backend & Database
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FF6B00?style=for-the-badge&logo=hive&logoColor=white)
-
-### Tools & Design
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🏆 Achievements & Certifications
+## 🏆 Highlights
 
 <div align="center">
 
-| 🏅 Achievement | 📅 Year | 🎯 Details |
-|---------------|---------|-----------|
-| **ECPC Finalist** | 2023 & 2024 | Egyptian Collegiate Programming Contest |
-| **ICPC Upper Egypt** | 2024 | Ranked **44th/400+ teams** |
-| **ICPC Upper Egypt** | 2023 | Ranked **61st/400+ teams** |
-| **Level One Seller** | 2024 | 5-Star Rating on Freelancer |
+<img src="assets/achievements.svg" width="100%" alt="achievements" />
 
-📜 [**View All Certificates**]([https://your-certificates-link.com](https://drive.google.com/drive/folders/1edkXFbzMp7ho1EU7ROcD2F_sNgxanLC_))
+<br/><br/>
+
+[![ICPC Profile](https://img.shields.io/badge/ICPC_Profile-2E9EF7?style=for-the-badge&labelColor=0d1117)](https://icpc.global/private/person/990063/ICPCID)
+[![Certificates](https://img.shields.io/badge/📜_Certificates-7F52FF?style=for-the-badge&labelColor=0d1117)](https://drive.google.com/drive/folders/1edkXFbzMp7ho1EU7ROcD2F_sNgxanLC_)
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Statistics
+## 📊 GitHub
 
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=sayedmostaf&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sayedmostaf&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayedmostaf&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sayedmostaf&show_icons=true&theme=transparent&title_color=2E9EF7&icon_color=7F52FF&text_color=c9d1d9&hide_border=true&include_all_commits=true&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sayedmostaf&show_icons=true&theme=default&title_color=0175C2&icon_color=7F52FF&hide_border=true&include_all_commits=true&count_private=true">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sayedmostaf&show_icons=true&theme=transparent&hide_border=true" alt="stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedmostaf&layout=compact&theme=transparent&title_color=2E9EF7&text_color=c9d1d9&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedmostaf&layout=compact&theme=default&title_color=0175C2&hide_border=true">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedmostaf&layout=compact&theme=transparent&hide_border=true" alt="top languages" />
+</picture>
 
 </div>
 
----
-
-## 🎯 Leadership & Community
-
-### 🌟 ICPC Assiut National Community
-**Vice President, Mentor & Problem Setter** | 2024 - Present
-
-- Co-founded and grew the competitive programming community at Assiut National University
-- Mentor students in algorithms, data structures, and problem-solving techniques
-- Design programming contest problems for training sessions
-- Prepare participants for national and international competitions
-
----
-
-## 📈 Contribution Graph
+<!--
+  OPTIONAL: animated contribution snake. Keep .github/workflows/snake.yml,
+  run it once from the Actions tab, then uncomment this block.
 
 <div align="center">
-
-[![Sayed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayedmostaf&theme=tokyo-night&hide_border=true)](https://github.com/sayedmostaf)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sayedmostaf/sayedmostaf/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sayedmostaf/sayedmostaf/output/github-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/sayedmostaf/sayedmostaf/output/github-snake.svg">
+</picture>
 </div>
+-->
 
----
-
-## 💡 Development Philosophy
-
-> "Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of what to do and what not to do. Professionalism and craftsmanship come from values that drive disciplines."
-
-I believe in:
-- 🎨 **User-Centric Design** - Building apps that users love
-- 🏗️ **Clean Architecture** - Maintainable and scalable codebases
-- 🧪 **Test-Driven Development** - Quality over quantity
-- 📚 **Continuous Learning** - Always growing and improving
-- 🤝 **Collaboration** - Sharing knowledge with the community
-
----
+<br/>
 
 <div align="center">
 
-### 🔥 Let's Build Something Amazing Together!
+### Let's build something great together
 
-**⭐ From [Sayed Mostafa](https://github.com/sayedmostaf) with ❤️**
+[![Email me](https://img.shields.io/badge/sayed.mostafa.wrk@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:sayed.mostafa.wrk@gmail.com)
 
 </div>

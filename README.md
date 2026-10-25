@@ -45,19 +45,20 @@
 
 ## ✨ Featured Projects
 
+<p align="center">
+  <a href="https://sayedmostafa.vercel.app/"><img src="assets/card-yalla.svg" width="32.4%" alt="Yalla Bena" /></a>
+  <a href="https://sayedmostafa.vercel.app/"><img src="assets/card-mansoog.svg" width="32.4%" alt="Mansoog" /></a>
+  <a href="https://sayedmostafa.vercel.app/"><img src="assets/card-jannah.svg" width="32.4%" alt="Jannah" /></a>
+</p>
+<p align="center">
+  <a href="https://sayedmostafa.vercel.app/"><img src="assets/btn-play.svg" width="16%" alt="Yalla Bena on Google Play" /></a>
+  <a href="https://sayedmostafa.vercel.app/"><img src="assets/btn-appstore.svg" width="16%" alt="Yalla Bena on the App Store" /></a>
+  <a href="https://sayedmostafa.vercel.app/"><img src="assets/btn-demo.svg" width="32.4%" alt="Mansoog live demo" /></a>
+  <a href="https://sayedmostafa.vercel.app/"><img src="assets/btn-play.svg" width="16%" alt="Jannah on Google Play" /></a>
+  <a href="https://apps.apple.com/us/app/%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%AC%D9%86%D8%A9/id6818501030"><img src="assets/btn-appstore.svg" width="16%" alt="Jannah on the App Store" /></a>
+</p>
+
 <div align="center">
-
-<a href="https://sayedmostafa.vercel.app/"><img src="assets/projects.svg" width="100%" alt="Featured projects: Yalla Bena, Mansoog, Jannah" /></a>
-
-<br/>
-
-[![Yalla Bena](https://img.shields.io/badge/Yalla_Bena-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&labelColor=F7B731)](https://sayedmostafa.vercel.app/)
-[![Yalla Bena](https://img.shields.io/badge/Yalla_Bena-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white&labelColor=F7B731)](https://sayedmostafa.vercel.app/)
-
-[![Mansoog](https://img.shields.io/badge/Mansoog-Live_Demo-2E9EF7?style=for-the-badge&logo=flutter&logoColor=white&labelColor=7F52FF)](https://sayedmostafa.vercel.app/)
-
-[![Jannah](https://img.shields.io/badge/Jannah-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&labelColor=3DDC84)](https://sayedmostafa.vercel.app/)
-[![Jannah](https://img.shields.io/badge/Jannah-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white&labelColor=3DDC84)](https://apps.apple.com/us/app/%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%AC%D9%86%D8%A9/id6818501030)
 
 **[See everything on my portfolio ➜](https://sayedmostafa.vercel.app/)**
 

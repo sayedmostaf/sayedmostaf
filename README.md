@@ -45,41 +45,19 @@
 
 ## ✨ Featured Projects
 
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-<img src="assets/icons/yalla-bena.png" width="92" height="92" alt="Yalla Bena icon" />
-
-<img src="assets/card-yalla.svg" width="100%" alt="Yalla Bena" />
-
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://sayedmostafa.vercel.app/)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://sayedmostafa.vercel.app/)
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<img src="assets/icons/mansoog.png" width="92" height="92" alt="Mansoog icon" />
-
-<img src="assets/card-mansoog.svg" width="100%" alt="Mansoog" />
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2E9EF7?style=for-the-badge&logo=flutter&logoColor=white)](https://sayedmostafa.vercel.app/)
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<img src="assets/icons/jannah.png" width="92" height="92" alt="Jannah · بناء الجنة icon" />
-
-<img src="assets/card-jannah.svg" width="100%" alt="Jannah · بناء الجنة" />
-
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://sayedmostafa.vercel.app/)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%AC%D9%86%D8%A9/id6818501030)
-
-</td>
-</tr>
-</table>
-
 <div align="center">
+
+<a href="https://sayedmostafa.vercel.app/"><img src="assets/projects.svg" width="100%" alt="Featured projects: Yalla Bena, Mansoog, Jannah" /></a>
+
+<br/>
+
+[![Yalla Bena](https://img.shields.io/badge/Yalla_Bena-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&labelColor=F7B731)](https://sayedmostafa.vercel.app/)
+[![Yalla Bena](https://img.shields.io/badge/Yalla_Bena-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white&labelColor=F7B731)](https://sayedmostafa.vercel.app/)
+
+[![Mansoog](https://img.shields.io/badge/Mansoog-Live_Demo-2E9EF7?style=for-the-badge&logo=flutter&logoColor=white&labelColor=7F52FF)](https://sayedmostafa.vercel.app/)
+
+[![Jannah](https://img.shields.io/badge/Jannah-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&labelColor=3DDC84)](https://sayedmostafa.vercel.app/)
+[![Jannah](https://img.shields.io/badge/Jannah-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white&labelColor=3DDC84)](https://apps.apple.com/us/app/%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%AC%D9%86%D8%A9/id6818501030)
 
 **[See everything on my portfolio ➜](https://sayedmostafa.vercel.app/)**
 
